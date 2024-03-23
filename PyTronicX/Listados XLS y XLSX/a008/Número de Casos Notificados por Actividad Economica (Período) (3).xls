@@ -1,0 +1,43 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridData" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Actividad</th><th scope="col">Cantidad de Casos</th>
+		</tr><tr>
+			<td>Agricultura, Pecuaria y Explotaci&#243;n Forestal</td><td>746</td>
+		</tr><tr>
+			<td>Pesca</td><td>4</td>
+		</tr><tr>
+			<td>Industrias Extractivas</td><td>231</td>
+		</tr><tr>
+			<td>Industria de Transformaci&#243;n</td><td>10,394</td>
+		</tr><tr>
+			<td>Producci&#243;n y Distribuci&#243;n Electricidad, Gas y Agua</td><td>899</td>
+		</tr><tr>
+			<td>Construcci&#243;n</td><td>2,237</td>
+		</tr><tr>
+			<td>Comercio, Rep Veh&#237;culos Automotrices, Obj pers Dom</td><td>7,850</td>
+		</tr><tr>
+			<td>Alojamiento y Alimentaci&#243;n</td><td>6,714</td>
+		</tr><tr>
+			<td>Transporte, Almacenamiento y Comunicaciones</td><td>2,203</td>
+		</tr><tr>
+			<td>Intermediaci&#243;n Financiera</td><td>1,411</td>
+		</tr><tr>
+			<td>Actividades Inmobiliarias con avaluos y serv prest</td><td>2,782</td>
+		</tr><tr>
+			<td>Administracion Publica, Defensa y Seguridad Social</td><td>2,501</td>
+		</tr><tr>
+			<td>Educaci&#243;n</td><td>3,524</td>
+		</tr><tr>
+			<td>Salud y Servicios Sociales</td><td>3,700</td>
+		</tr><tr>
+			<td>Otros Servicios colectivos sociales y personales</td><td>1,571</td>
+		</tr><tr>
+			<td>Servicios Domesticos</td><td>24</td>
+		</tr><tr>
+			<td>Organismos Internacionales y otras inst extraterri</td><td>6</td>
+		</tr><tr>
+			<td>Total: </td><td>46,797</td>
+		</tr>
+	</table>
+</div>

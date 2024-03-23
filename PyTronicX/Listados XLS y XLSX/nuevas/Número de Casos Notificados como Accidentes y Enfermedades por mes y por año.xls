@@ -1,0 +1,13 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridData" style="border-collapse:collapse;">
+		<caption>
+			2024
+		</caption><tr>
+			<th class="hidden" scope="col">A&#209;O</th><th scope="col">MES</th><th scope="col">AT</th><th scope="col">EP</th><th scope="col">TOTAL</th>
+		</tr><tr>
+			<td class="hidden">2024</td><td>MAR-2024</td><td>236</td><td>4</td><td>240</td>
+		</tr><tr>
+			<td class="hidden">&nbsp;</td><td>Total General:</td><td>236</td><td>4</td><td>240</td>
+		</tr>
+	</table>
+</div>

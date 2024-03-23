@@ -1,0 +1,13 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridDatax" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Sexo</th><th scope="col">Ene</th><th scope="col">Feb</th><th scope="col">Mar</th><th scope="col">Abr</th><th scope="col">May</th><th scope="col">Jun</th><th scope="col">Jul</th><th scope="col">Ago</th><th scope="col">Sep</th><th scope="col">Oct</th><th scope="col">Nov</th><th scope="col">Dic</th><th scope="col">Total</th>
+		</tr><tr>
+			<td>Masculino</td><td>2,084</td><td>2,461</td><td>2,787</td><td>2,286</td><td>2,592</td><td>2,564</td><td>2,364</td><td>2,740</td><td>2,498</td><td>2,562</td><td>2,731</td><td>2,389</td><td>30,058</td>
+		</tr><tr>
+			<td>Femenino</td><td>2,198</td><td>2,457</td><td>1,886</td><td>1,375</td><td>1,457</td><td>1,678</td><td>1,474</td><td>1,459</td><td>1,320</td><td>1,561</td><td>1,453</td><td>1,219</td><td>19,537</td>
+		</tr><tr>
+			<td>&nbsp;</td><td>4,282</td><td>4,918</td><td>4,673</td><td>3,661</td><td>4,049</td><td>4,242</td><td>3,838</td><td>4,199</td><td>3,818</td><td>4,123</td><td>4,184</td><td>3,608</td><td>49,595</td>
+		</tr>
+	</table>
+</div>

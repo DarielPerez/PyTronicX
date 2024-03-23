@@ -1,0 +1,35 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridData" style="border-collapse:collapse;">
+		<caption>
+			2022
+		</caption><tr>
+			<th class="hidden" scope="col">A&#209;O</th><th scope="col">MES</th><th scope="col">AT</th><th scope="col">EP</th><th scope="col">TOTAL</th>
+		</tr><tr>
+			<td class="hidden">2022</td><td>ENE-2022</td><td>2,613</td><td>1,669</td><td>4,282</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>FEB-2022</td><td>3,529</td><td>1,389</td><td>4,918</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>MAR-2022</td><td>4,206</td><td>467</td><td>4,673</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>ABR-2022</td><td>3,516</td><td>145</td><td>3,661</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>MAY-2022</td><td>3,928</td><td>121</td><td>4,049</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>JUN-2022</td><td>3,932</td><td>310</td><td>4,242</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>JUL-2022</td><td>3,590</td><td>248</td><td>3,838</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>AGO-2022</td><td>4,003</td><td>196</td><td>4,199</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>SEP-2022</td><td>3,724</td><td>94</td><td>3,818</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>OCT-2022</td><td>4,055</td><td>68</td><td>4,123</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>NOV-2022</td><td>4,139</td><td>45</td><td>4,184</td>
+		</tr><tr>
+			<td class="hidden">2022</td><td>DIC-2022</td><td>3,526</td><td>70</td><td>3,596</td>
+		</tr><tr>
+			<td class="hidden">&nbsp;</td><td>Total General:</td><td>44,761</td><td>4,822</td><td>49,583</td>
+		</tr>
+	</table>
+</div>

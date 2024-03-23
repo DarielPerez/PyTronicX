@@ -1,0 +1,35 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridData" style="border-collapse:collapse;">
+		<caption>
+			2023
+		</caption><tr>
+			<th class="hidden" scope="col">A&#209;O</th><th scope="col">MES</th><th scope="col">AT</th><th scope="col">EP</th><th scope="col">TOTAL</th>
+		</tr><tr>
+			<td class="hidden">2023</td><td>ENE-2023</td><td>3,400</td><td>72</td><td>3,472</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>FEB-2023</td><td>3,589</td><td>34</td><td>3,623</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>MAR-2023</td><td>4,557</td><td>42</td><td>4,599</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>ABR-2023</td><td>3,389</td><td>27</td><td>3,416</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>MAY-2023</td><td>4,247</td><td>57</td><td>4,304</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>JUN-2023</td><td>3,860</td><td>70</td><td>3,930</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>JUL-2023</td><td>3,732</td><td>73</td><td>3,805</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>AGO-2023</td><td>3,815</td><td>55</td><td>3,870</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>SEP-2023</td><td>4,015</td><td>49</td><td>4,064</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>OCT-2023</td><td>4,227</td><td>52</td><td>4,279</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>NOV-2023</td><td>3,905</td><td>47</td><td>3,952</td>
+		</tr><tr>
+			<td class="hidden">2023</td><td>DIC-2023</td><td>3,452</td><td>28</td><td>3,480</td>
+		</tr><tr>
+			<td class="hidden">&nbsp;</td><td>Total General:</td><td>46,188</td><td>606</td><td>46,794</td>
+		</tr>
+	</table>
+</div>
