@@ -1,0 +1,35 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridData" style="border-collapse:collapse;">
+		<caption>
+			2021
+		</caption><tr>
+			<th class="hidden" scope="col">A&#209;O</th><th scope="col">MES</th><th scope="col">AT</th><th scope="col">EP</th><th scope="col">TOTAL</th>
+		</tr><tr>
+			<td class="hidden">2021</td><td>ENE-2021</td><td>2,435</td><td>1,369</td><td>3,804</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>FEB-2021</td><td>2,937</td><td>1,709</td><td>4,646</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>MAR-2021</td><td>3,362</td><td>1,032</td><td>4,394</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>ABR-2021</td><td>3,068</td><td>413</td><td>3,481</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>MAY-2021</td><td>3,176</td><td>425</td><td>3,601</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>JUN-2021</td><td>3,038</td><td>720</td><td>3,758</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>JUL-2021</td><td>3,372</td><td>776</td><td>4,148</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>AGO-2021</td><td>3,353</td><td>365</td><td>3,718</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>SEP-2021</td><td>3,454</td><td>336</td><td>3,790</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>OCT-2021</td><td>3,264</td><td>488</td><td>3,752</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>NOV-2021</td><td>3,866</td><td>715</td><td>4,581</td>
+		</tr><tr>
+			<td class="hidden">2021</td><td>DIC-2021</td><td>3,254</td><td>499</td><td>3,753</td>
+		</tr><tr>
+			<td class="hidden">&nbsp;</td><td>Total General:</td><td>38,579</td><td>8,847</td><td>47,426</td>
+		</tr>
+	</table>
+</div>

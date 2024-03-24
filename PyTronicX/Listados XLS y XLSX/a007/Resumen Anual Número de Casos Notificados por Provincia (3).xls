@@ -1,0 +1,13 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridData" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Provincias</th><th scope="col">Cantidad de Casos</th>
+		</tr><tr>
+			<td>SANTO DOMINGO</td><td>5,003</td>
+		</tr><tr>
+			<td>DISTRITO NACIONAL</td><td>16,542</td>
+		</tr><tr>
+			<td>Total: </td><td>21,545</td>
+		</tr>
+	</table>
+</div>

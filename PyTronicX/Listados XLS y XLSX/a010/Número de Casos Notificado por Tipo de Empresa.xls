@@ -1,0 +1,13 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_grvData" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Tipo</th><th scope="col">Ene</th><th scope="col">Feb</th><th scope="col">Mar</th><th scope="col">Abr</th><th scope="col">May</th><th scope="col">Jun</th><th scope="col">Jul</th><th scope="col">Ago</th><th scope="col">Sep</th><th scope="col">Oct</th><th scope="col">Nov</th><th scope="col">Dic</th><th scope="col">Total</th>
+		</tr><tr>
+			<td>Empresa Privada</td><td>3,052</td><td>3,039</td><td>2,424</td><td>690</td><td>1,226</td><td>2,085</td><td>2,546</td><td>2,669</td><td>2,848</td><td>2,852</td><td>2,656</td><td>2,419</td><td>28,506</td>
+		</tr><tr>
+			<td>Empresa P&#250;blica</td><td>835</td><td>817</td><td>596</td><td>196</td><td>329</td><td>618</td><td>877</td><td>1,579</td><td>1,663</td><td>1,676</td><td>1,295</td><td>1,158</td><td>11,639</td>
+		</tr><tr>
+			<td>&nbsp;</td><td>3,887</td><td>3,856</td><td>3,020</td><td>886</td><td>1,555</td><td>2,703</td><td>3,423</td><td>4,248</td><td>4,511</td><td>4,528</td><td>3,951</td><td>3,577</td><td style="font-weight:bold;">40,145</td>
+		</tr>
+	</table>
+</div>

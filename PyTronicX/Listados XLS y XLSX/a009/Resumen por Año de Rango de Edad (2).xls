@@ -1,0 +1,21 @@
+<div>
+	<table class="table table-hover table-striped TablaIdoppril" cellspacing="0" rules="all" border="1" id="ContentPlaceHolder1_gridData" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Rango de Edad</th><th scope="col">Cantidad de Casos</th>
+		</tr><tr>
+			<td>Menor 20 A&#241;os</td><td>8</td>
+		</tr><tr>
+			<td>Desde 20 a 29 A&#241;os</td><td>14,476</td>
+		</tr><tr>
+			<td>Desde 30 a 39 A&#241;os</td><td>16,267</td>
+		</tr><tr>
+			<td>Desde 40 a 49 A&#241;os</td><td>10,104</td>
+		</tr><tr>
+			<td>Desde 50 a 59 A&#241;os</td><td>6,009</td>
+		</tr><tr>
+			<td>Mayor de 60 A&#241;os</td><td>2,731</td>
+		</tr><tr>
+			<td>Total: </td><td>49,595</td>
+		</tr>
+	</table>
+</div>
