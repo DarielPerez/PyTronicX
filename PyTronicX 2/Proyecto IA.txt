@@ -1,0 +1,3 @@
+En esta carpeta tendremos los datos de nuestro proyecto 2 correspondiente al modulo de IA.
+
+Este consiste en un asistente visual para personas que presenten esta dificultad.
