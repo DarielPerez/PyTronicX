@@ -1,6 +1,6 @@
 # PyTronicX
 
-El objetivo de este proyecto es analizar la cantidad de accidente laborales y hacer comparaciones de las graficas obtenidas para de esta forma poder crear soluciones para poder disminuir la incidensia de estos casos.
+El objetivo de este proyecto es analizar la cantidad de accidentes laborales y hacer comparaciones de las graficas obtenidas para de esta forma poder crear soluciones para poder disminuir la incidensia de estos casos.
 
 Para ejecutar el programa necesitas compilar el archivo llamado: 
 - "(Blue_Label)_Filtro_de_datos_y_eliminacion_de_columnas_(EZEQUIEL).py"
